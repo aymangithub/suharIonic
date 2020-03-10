@@ -1,0 +1,6 @@
+
+key pass: suharfruits
+
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore "/Users/aymanelsharkawy/Programming/Projects/Ionic_sohar/suhar-fruits-release-key.keystore" "/Users/aymanelsharkawy/Programming/Projects/Ionic_sohar/platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk" suhar-fruits
+
+/Users/aymanelsharkawy/Library/Android/sdk/build-tools/28.0.3/zipalign -v 4 "/Users/aymanelsharkawy/Programming/Projects/Ionic_sohar/platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk" "/Users/aymanelsharkawy/Programming/Projects/Ionic_sohar/platforms/android/app/build/outputs/apk/release/suhar_fruits_final_signed_app.apk"

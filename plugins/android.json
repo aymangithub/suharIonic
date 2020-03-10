@@ -1,0 +1,67 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "card.io.cordova.mobilesdk": {
+      "PACKAGE_NAME": "jetown.net.suhar"
+    },
+    "cordova-plugin-appminimize": {
+      "PACKAGE_NAME": "jetown.net.suhar"
+    },
+    "cordova-plugin-apprate": {
+      "PACKAGE_NAME": "jetown.net.suhar"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "jetown.net.suhar"
+    },
+    "cordova-plugin-email-composer": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "jetown.net.suhar"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "jetown.net.suhar"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "jetown.net.suhar"
+    },
+    "cordova-plugin-ionic-webview": {
+      "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "27.+",
+      "PACKAGE_NAME": "jetown.net.suhar"
+    },
+    "cordova-plugin-nativestorage": {
+      "PACKAGE_NAME": "jetown.net.suhar"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "jetown.net.suhar"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "jetown.net.suhar"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "jetown.net.suhar"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "ANDROID_SUPPORT_V4_VERSION": "24.1.1+",
+      "PACKAGE_NAME": "jetown.net.suhar"
+    },
+    "onesignal-cordova-plugin": {
+      "PACKAGE_NAME": "jetown.net.suhar"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "jetown.net.suhar"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "jetown.net.suhar"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "jetown.net.suhar"
+    }
+  }
+}
